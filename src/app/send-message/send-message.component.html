@@ -1,0 +1,13 @@
+<div>
+    <h3>Send Message</h3>
+
+    <label>
+        <input type="text" [formControl]="phoneNumber" placeholder="Phone Number">
+    </label>
+    <br><br>
+        <input type="text" [formControl]="message" placeholder="Message">
+
+    <br><br>
+    <button (click)="sendMessage(message, phoneNumber)">Send Message</button>
+
+</div>

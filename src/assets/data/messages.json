@@ -1,0 +1,23 @@
+[
+    {"sid": "SMe560771c7b534e9da6d51c1cb505bedd", 
+        "date_created": "Sun, 21 Feb 2021 18:19:56 +0000", 
+        "date_updated": "Sun, 21 Feb 2021 18:19:56 +0000", 
+        "date_sent": null, 
+        "account_sid": "ACc3f94484dc688fffe6883775de14012a", 
+        "to": "+972509005070", 
+        "from": "+16465863849", 
+        "messaging_service_sid": null, 
+        "body": "Hi there", 
+        "status": "queued", 
+        "num_segments": "1", 
+        "num_media": "0", 
+        "direction": "outbound-api", 
+        "api_version": "2010-04-01", 
+        "price": null, 
+        "price_unit": "USD", 
+        "error_code": null, 
+        "error_message": null, 
+        "uri": "/2010-04-01/Accounts/ACc3f94484dc688fffe6883775de14012a/Messages/SMe560771c7b534e9da6d51c1cb505bedd.json", 
+        "subresource_uris": {"media": "/2010-04-01/Accounts/ACc3f94484dc688fffe6883775de14012a/Messages/SMe560771c7b534e9da6d51c1cb505bedd/Media.json"}
+    }
+]
